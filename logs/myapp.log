@@ -1,0 +1,54 @@
+10:17:07.023 [main] INFO  - Url Opened
+10:17:07.076 [main] INFO  - ****************TC_1 Verify Registration starts********************
+10:17:10.365 [main] INFO  - Title selected
+10:17:10.544 [main] INFO  - First name entered
+10:17:10.737 [main] INFO  - Last name entered
+10:17:10.926 [main] INFO  - Password entered
+10:17:11.012 [main] INFO  - Clicked on create account button
+12:24:54.985 [main] INFO  - Url Opened
+12:24:55.040 [main] INFO  - ****************TC_1 Verify Registration starts********************
+12:24:58.634 [main] INFO  - Title selected
+12:24:58.781 [main] INFO  - First name entered
+12:24:58.925 [main] INFO  - Last name entered
+12:24:59.185 [main] INFO  - Password entered
+12:24:59.284 [main] INFO  - Clicked on create account button
+13:10:43.376 [main] INFO  - Url Opened
+13:10:45.444 [main] INFO  - Clicked On Sign in button
+13:10:45.703 [main] INFO  - Email address entered
+13:10:45.876 [main] INFO  - password entered
+13:10:45.969 [main] INFO  - Clicked on sign in button
+13:18:28.752 [main] INFO  - Url Opened
+13:18:30.924 [main] INFO  - Clicked On Sign in button
+13:18:31.107 [main] INFO  - Email address entered
+13:18:31.271 [main] INFO  - password entered
+13:18:31.370 [main] INFO  - Clicked on sign in button
+13:24:59.989 [main] INFO  - Url Opened
+13:25:01.738 [main] INFO  - Clicked On Sign in button
+13:25:01.916 [main] INFO  - Email address entered
+13:25:02.089 [main] INFO  - password entered
+13:25:02.186 [main] INFO  - Clicked on sign in button
+13:35:59.965 [main] INFO  - Url Opened
+13:36:01.957 [main] INFO  - Clicked On Sign in button
+13:36:02.146 [main] INFO  - Email address entered
+13:36:02.319 [main] INFO  - password entered
+13:36:02.411 [main] INFO  - Clicked on sign in button
+13:37:12.728 [main] INFO  - Url Opened
+13:37:14.566 [main] INFO  - Clicked On Sign in button
+13:37:14.860 [main] INFO  - Email address entered
+13:37:15.057 [main] INFO  - password entered
+13:37:15.150 [main] INFO  - Clicked on sign in button
+13:25:25.762 [main] INFO  - Url Opened
+13:25:27.639 [main] INFO  - Clicked On Sign in button
+13:25:27.846 [main] INFO  - Email address entered
+13:25:28.056 [main] INFO  - password entered
+13:25:28.157 [main] INFO  - Clicked on sign in button
+13:26:52.123 [main] INFO  - Url Opened
+13:26:53.944 [main] INFO  - Clicked On Sign in button
+13:26:54.171 [main] INFO  - Email address entered
+13:26:54.370 [main] INFO  - password entered
+13:26:54.471 [main] INFO  - Clicked on sign in button
+13:27:45.271 [main] INFO  - Url Opened
+13:27:47.549 [main] INFO  - Clicked On Sign in button
+13:27:47.839 [main] INFO  - Email address entered
+13:27:48.023 [main] INFO  - password entered
+13:27:48.127 [main] INFO  - Clicked on sign in button
